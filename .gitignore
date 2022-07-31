@@ -1,0 +1,14 @@
+.test
+node_modules
+.DS_Store
+.idea
+coverage/
+dist/
+lib
+lib/
+lib-esm/
+public/
+stats.html
+.env
+
+yarn.lock
