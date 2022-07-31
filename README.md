@@ -4,6 +4,10 @@ _Note_: This is just my (fairly opinionated) boilerplate config for kickstarting
 
 It may not be what you'd do and there's some custom stuff in the Github Actions aimed at working with private npm registries so it may not work out of the box for you.
 
+## Set up
+
+Clone and install dependencies, then get set up for publishing:
+
 1. Update `config.json` in in `/.changeset/config.json` with your repo info
 2. Update package name in `package.json`
 3. Update library name in `rollup.config.js`
