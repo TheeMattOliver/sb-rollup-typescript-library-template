@@ -2,7 +2,7 @@
 
 _Note_: This is just my (fairly opinionated) boilerplate config for kickstarting Typescript-React based components library projects. I kept having to configure Rollup, Github Actions, a bundle/type-check/build/type declarations script, tsconfig, etc over and over and over again.
 
-It may not be what you'd do and there's some custom stuff in the Github Actions aimed at working with private npm registries so it may not work out of the box for you.
+It may not be what you'd do and there's some custom stuff in the Github Actions aimed at working with private npm registries so it may not be exactly what you're looking for.
 
 ## Set up
 
